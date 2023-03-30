@@ -15,9 +15,24 @@
 <h2>Data Base</h2>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-4479A1?style=for-the-badge&logo=Microsoft SQL Server&logoColor="/>
+ 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=N1ph1l1m&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=N1ph1l1m&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ph1l1m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=N1ph1l1m&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
  <h2></h2>
  
  
  
  ![Image](https://github.com/N1ph1l1m/N1ph1l1m/blob/main/img1.jpg)
+ 
+ 
+ [![](https://visitcount.itsvg.in/api?id=N1ph1l1m&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
