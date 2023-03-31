@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit" target="_blank">Vlad</a> 
- <h3 align="center">Informatics and computer engineering student💻,love computer technology and everything related to them👨‍💻</h3> 
+ <h3 align="center">Informatics and computer engineering student💻,I am fond of computer technology and everything related to them👨‍💻</h3> 
 
 <h2>My development stack</h2>
 <h2>Front-end</h2>
@@ -17,8 +17,11 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-4479A1?style=for-the-badge&logo=Microsoft SQL Server&logoColor="/>
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=N1ph1l1m&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=N1ph1l1m&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ph1l1m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ph1l1m&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+ ![](https://github-readme-stats.vercel.app/api?username=N1ph1l1m&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=N1ph1l1m&theme=dark&hide_border=false)<br/>
+ 
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=N1ph1l1m&theme=radical&no-frame=false&no-bg=true&margin-w=4)
