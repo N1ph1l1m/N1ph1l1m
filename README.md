@@ -15,20 +15,26 @@
 <h2>Data Base</h2>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-4479A1?style=for-the-badge&logo=Microsoft SQL Server&logoColor="/>
- 
-# 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1ph1l1m&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ph1l1m&theme=react)
+
+  
+ <div  align="center"><h2> 📊 GitHub Stats:</h2>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1ph1l1m&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1ph1l1m&theme=react)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1ph1l1m&theme=react)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1ph1l1m&theme=react&utcOffset=8)
+ </div>
+ 
 
 
 ---
 
- <h2></h2>
+ <div  align="center"> <h2></h2>
  
  
  
  ![Image](https://github.com/N1ph1l1m/N1ph1l1m/blob/main/img1.jpg)
+ </div>
+
  
  
  [![](https://visitcount.itsvg.in/api?id=N1ph1l1m&icon=0&color=0)](https://visitcount.itsvg.in)
