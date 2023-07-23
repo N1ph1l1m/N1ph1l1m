@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit" target="_blank">Vlad</a> 
  <h3 align="center">Informatics and computer engineering student💻,I am fond of computer technology and everything related to them👨‍💻</h3> 
   
-<h2>My development stack</h2>          
+<h2>My development stack</h2>           
 <h2>Front-end</h2>                 
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor="/> <img src="https://img.shields.io/badge/JavaSCript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/> 
@@ -14,12 +14,12 @@
 <h2>Mobile Development </h2>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
-
+ 
 
 <h2>DataBase</h2>
-
+  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-4479A1?style=for-the-badge&logo=Microsoft SQL Server&logoColor="/>
-
+   
   
  <div  align="center"><h2> 📊 GitHub Stats:</h2>
 
