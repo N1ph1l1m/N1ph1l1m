@@ -19,7 +19,7 @@
 <h2>DataBase</h2>
   
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-4479A1?style=for-the-badge&logo=Microsoft SQL Server&logoColor="/>
-   
+          
   
  <div  align="center"><h2> 📊 GitHub Stats:</h2>
 
