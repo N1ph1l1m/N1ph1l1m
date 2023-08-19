@@ -2,7 +2,7 @@
  <h3 align="center">Informatics and computer engineering student💻,I am fond of computer technology and everything related to them👨‍💻</h3> 
        
 <h2>My development stack</h2>           
-<h2>Front-end</h2>                 
+<h2>Front-end</h2>                            
             
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor="/> <img src="https://img.shields.io/badge/JavaSCript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>  
  
