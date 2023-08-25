@@ -40,7 +40,7 @@
  
  
  
- ![Image](https://github.com/N1ph1l1m/N1ph1l1m/blob/main/img1.jpg)
+ ![Image](https://github.com/N1ph1l1m/N1ph1l1m/blob/main/img.png)
  </div>
 
  
