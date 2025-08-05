@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit" target="_blank">Vlad</a>         
- <h3 align="center">Informatics and computer engineering student💻,I am fond of computer technology and everything related to them👨‍💻</h3> 
+ <h3 align="center">Frontend Developer | Tech Enthusiast | Building Clean & Scalable UIs</h3> 
        
 <h2>My development stack</h2>                
 <h2>Frontend</h2>                            
